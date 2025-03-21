@@ -1,0 +1,37 @@
+Deck
+1 Kor Halberd (MOM) 27
+40 Plains (FDN) 273
+1 Loran's Escape (BRO) 14
+3 Ivory Tower (BRR) 23
+1 Hedgewitch's Mask (MID) 23
+1 Hopeful Initiate (VOW) 20
+3 Portable Hole (AFR) 33
+1 Bride's Gown (VOW) 4
+1 Yotian Frontliner (BRO) 42
+1 Swooping Lookout (ONE) 35
+2 A-Ancestral Katana (NEO) 1
+4 Citizen's Crowbar (SNC) 8
+3 Attentive Sunscribe (LCI) 4
+1 Disenchant (ZNR) 10
+1 Cogwork Progenitor (Y24) 1
+1 Dauntless Dismantler (LCI) 8
+1 Delver's Torch (AFR) 10
+4 Michiko's Reign of Truth (NEO) 29
+3 Planar Disruption (ONE) 28
+2 Petrify (LCI) 30
+2 Make Your Move (MKM) 22
+1 Icingdeath, Frost Tyrant (AFR) 20
+1 Indoctrination Attendant (ONE) 16
+3 Steel Seraph (BRO) 38
+2 Foundry Inspector (BRR) 16
+1 Ornithopter (BRR) 37
+1 Bronze Sword (THB) 232
+2 Eater of Virtue (NEO) 245
+1 Gingerbrute (WOE) 246
+1 Hunter's Blowgun (LCI) 255
+3 Agatha's Soul Cauldron (WOE) 242
+1 Quick-Draw Katana (FDN) 130
+3 Quietus Spike (BRR) 46
+1 Sculpting Steel (BRR) 50
+2 Pristine Talisman (BRR) 43
+1 Shambling Suit (ELD) 230

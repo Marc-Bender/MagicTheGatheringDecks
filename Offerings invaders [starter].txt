@@ -1,0 +1,28 @@
+Deck
+1 Greedy Freebooter (LCI) 109
+1 Bartolomé del Presidio (LCI) 224
+1 Skullcap Snail (LCI) 119
+1 Glorifier of Suffering (LCI) 15
+1 Synapse Necromage (LCI) 125
+1 Sanguine Evangelist (LCI) 34
+1 Vito's Inquisitor (LCI) 130
+1 Abyssal Gorestalker (LCI) 87
+1 Dusk Rose Reliquary (LCI) 10
+1 Mephitic Draught (LCI) 112
+1 Cosmium Blast (LCI) 7
+1 Hidden Necropolis (LCI) 275
+1 Sunder the Gateway (MOM) 39
+1 Norn's Inquisitor (MOM) 29
+1 Phyrexian Awakening (MOM) 30
+1 Attentive Skywarden (MOM) 7
+1 Progenitor Exarch (MOM) 32
+1 Tiller of Flesh (MOM) 44
+1 Infected Defector (MOM) 18
+1 Alabaster Host Intercessor (MOM) 3
+1 Aerial Boost (MOM) 2
+1 Inspired Charge (MOM) 19
+1 Cut Short (MOM) 10
+1 Seal from Existence (MOM) 35
+2 Scoured Barrens (NEO) 274
+20 Plains (WOE) 267
+20 Swamp (WOE) 271

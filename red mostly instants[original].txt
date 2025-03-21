@@ -1,0 +1,24 @@
+Deck
+4 Motivated Muralist (Y25) 15
+16 Mountain (FDN) 279
+1 Bloodfell Caves (DFT) 251
+3 Bloodfell Caves (MOM) 267
+1 Wind-Scarred Crag (DFT) 271
+3 Wind-Scarred Crag (FDN) 271
+1 A-Jackhammer (SNC) 111
+4 Akoum Hellhound (ZNR) 133
+4 Burst Lightning (FDN) 192
+4 Diamond Pick-Axe (LCI) 143
+2 Flame-Blessed Bolt (VOW) 158
+3 Infuriate (THB) 141
+4 Rabbit Battery (NEO) 157
+4 Play with Fire (MID) 154
+3 Shock (MKM) 144
+1 Shock (STA) 44
+1 Antagonize (SNC) 100
+4 Light 'Em Up (SNC) 113
+4 Lightning Strike (DMU) 137
+3 Roil Eruption (ZNR) 155
+1 Scorching Shot (OTJ) 145
+4 Adrenaline Jockey (DFT) 112
+4 Stormsplitter (BLB) 154

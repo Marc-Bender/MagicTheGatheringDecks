@@ -1,0 +1,41 @@
+Deck
+1 Shackle Slinger (OTJ) 65
+1 Outlaw Stitcher (OTJ) 59
+1 This Town Ain't Big Enough (OTJ) 74
+1 Archmage's Newt (OTJ) 39
+1 Slickshot Lockpicker (OTJ) 67
+1 Visage Bandit (OTJ) 76
+1 Razzle-Dazzler (OTJ) 63
+1 Loan Shark (OTJ) 55
+1 Out Cold (MKM) 66
+1 Spring Splasher (OTJ) 69
+1 Phantom Interference (OTJ) 61
+1 Jailbreak Scheme (OTJ) 53
+1 Hearthborn Battler (BLB) 139
+1 Teapot Slinger (BLB) 157
+1 Reptilian Recruiter (BLB) 149
+1 Alania's Pathmaker (BLB) 123
+1 Raccoon Rallier (BLB) 148
+1 Roughshod Duo (BLB) 150
+1 Flamecache Gecko (BLB) 135
+1 Frilled Sparkshooter (BLB) 136
+1 Playful Shove (BLB) 145
+1 Rabid Gnaw (BLB) 147
+1 Sazacap's Brew (BLB) 151
+1 Hoarder's Overflow (BLB) 141
+1 Swiftwater Cliffs (MOM) 273
+1 Swiftwater Cliffs (MOM) 273
+1 Island (BLB) 372
+1 Mountain (BLB) 376
+1 Island (BLB) 372
+1 Mountain (BLB) 376
+1 Island (BLB) 372
+1 Mountain (BLB) 376
+1 Island (BLB) 372
+1 Mountain (BLB) 376
+1 Island (BLB) 372
+1 Mountain (BLB) 376
+1 Island (BLB) 372
+1 Mountain (BLB) 376
+1 Island (BLB) 372
+1 Mountain (BLB) 376

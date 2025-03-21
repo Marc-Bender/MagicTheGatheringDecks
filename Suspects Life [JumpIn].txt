@@ -1,0 +1,41 @@
+Deck
+1 Case of the Stashed Skeleton (MKM) 80
+1 Rune-Brand Juggler (MKM) 229
+1 Repeat Offender (MKM) 101
+1 Clandestine Meddler (MKM) 82
+1 Gearbane Orangutan (MKM) 129
+1 Person of Interest (MKM) 139
+1 Shady Informant (MKM) 231
+1 Rubblebelt Braggart (MKM) 143
+1 Concealed Weapon (MKM) 117
+1 Shock (MKM) 144
+1 Presumed Dead (MKM) 100
+1 Deadly Complication (MKM) 195
+1 Enduring Tenacity (DSK) 95
+1 Dashing Bloodsucker (DSK) 90
+1 Withering Torment (DSK) 124
+1 Commune with Evil (DSK) 87
+1 Killer's Mask (DSK) 104
+1 Osseous Sticktwister (DSK) 112
+1 Give In to Violence (DSK) 101
+1 Balemurk Leech (DSK) 84
+1 Fear of Lost Teeth (DSK) 97
+1 Fanatic of the Harrowing (DSK) 96
+1 Derelict Attic // Widow's Walk (DSK) 93
+1 Spectral Snatcher (DSK) 116
+1 Bloodfell Caves (MOM) 267
+1 Bloodfell Caves (MOM) 267
+1 Swamp (BLB) 374
+1 Swamp (BLB) 374
+1 Swamp (BLB) 374
+1 Mountain (BLB) 376
+1 Swamp (BLB) 374
+1 Mountain (BLB) 376
+1 Swamp (BLB) 374
+1 Mountain (BLB) 376
+1 Swamp (BLB) 374
+1 Mountain (BLB) 376
+1 Swamp (BLB) 374
+1 Mountain (BLB) 376
+1 Swamp (BLB) 374
+1 Mountain (BLB) 376

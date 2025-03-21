@@ -1,0 +1,35 @@
+Deck
+1 Dreams of Steel and Oil (BRO) 92
+20 Swamp (BRO) 273
+1 Ashnod's Intervention (BRO) 85
+1 Blood Fountain (VOW) 95
+3 Inquisition of Kozilek (STA) 31
+1 Grisly Sigil (SNC) 82
+1 Gnawing Vermin (BRO) 101
+1 Liliana's Steward (M21) 111
+1 Raise Dead (ANB) 56
+2 Typhoid Rats (ANB) 63
+2 Unwilling Ingredient (STX) 90
+1 A-Guildsworn Prowler (HBG) 160
+1 Cruel Cut (ANB) 47
+4 Dokuchi Silencer (NEO) 95
+1 Elderfang Disciple (KHM) 93
+1 Emergency Weld (BRO) 93
+1 Eternal Thirst (ANB) 49
+3 Fake Your Own Death (SNC) 79
+3 Inkrise Infiltrator (NEO) 100
+1 Vampire's Kiss (VOW) 136
+1 Voldaren Bloodcaster (VOW) 137
+2 Xander's Wake (Y22) 9
+2 Braids's Frightful Return (DMU) 85
+1 Biting-Palm Ninja (NEO) 88
+2 Hero's Downfall (VOW) 120
+1 Gix, Yawgmoth Praetor (BRO) 95
+1 Murder (M19) 110
+
+Sideboard
+1 A-Midnight Assassin (SNC) 87
+1 Murder (M19) 110
+2 Murder (ANB) 53
+1 Clattering Skeletons (AFR) 93
+1 Bleed Dry (VOW) 94

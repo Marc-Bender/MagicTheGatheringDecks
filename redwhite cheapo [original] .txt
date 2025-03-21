@@ -1,0 +1,49 @@
+Deck
+1 Hopeful Initiate (VOW) 20
+5 Plains (BRO) 269
+1 Homestead Courage (MID) 24
+1 Light the Way (NEO) 24
+1 Lucky Offering (NEO) 27
+1 Lunarch Veteran (MID) 27
+1 Adamant Will (VOW) 1
+1 Ancestral Katana (NEO) 1
+1 Bride's Gown (VOW) 4
+1 Citizen's Crowbar (SNC) 8
+1 Disenchant (ZNR) 10
+1 Dawnhart Geist (VOW) 8
+2 Drogskol Infantry (VOW) 10
+1 Hold for Ransom (SNC) 16
+2 Sanctify (VOW) 33
+1 Spirited Companion (NEO) 38
+1 Twinblade Geist (VOW) 40
+1 Valorous Stance (VOW) 42
+1 Borrowed Time (MID) 6
+1 Dragonfly Suit (NEO) 9
+1 Halo Fountain (SNC) 15
+1 Sungold Barrage (MID) 36
+1 Wedding Announcement (VOW) 45
+1 Yotian Medic (BRO) 33
+1 Mysterious Limousine (SNC) 22
+1 Steel Seraph (BRO) 38
+1 Play with Fire (MID) 154
+1 Rabbit Battery (NEO) 157
+1 Raze the Effigy (MID) 156
+1 Simian Sling (NEO) 163
+1 Reinforced Ronin (NEO) 158
+1 Voldaren Epicure (VOW) 182
+1 Abrade (VOW) 139
+1 Antagonize (SNC) 100
+1 Electrostatic Infantry (DMU) 122
+1 Twinshot Sniper (NEO) 168
+5 Mountain (ANB) 114
+1 Piercing Light (VOW) 30
+1 Military Discipline (BRO) 17
+1 Survivor of Korlis (BRO) 28
+1 Unholy Officiant (VOW) 41
+1 Giada, Font of Hope (SNC) 14
+2 Michiko's Reign of Truth (NEO) 29
+1 Lion Sash (NEO) 26
+1 Refuse to Yield (SNC) 27
+2 Recommission (BRO) 22
+1 Selfless Samurai (NEO) 35
+1 Adeline, Resplendent Cathar (MID) 1

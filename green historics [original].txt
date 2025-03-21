@@ -1,0 +1,39 @@
+Deck
+3 Ivory Tower (BRR) 23
+50 Forest (KHM) 398
+2 Goblin Firebomb (BRO) 235
+1 Witch's Oven (ELD) 237
+4 Circuit Mender (NEO) 242
+1 Foundry Inspector (BRR) 16
+1 Pristine Talisman (BRR) 43
+4 Quietus Spike (BRR) 46
+1 Aetherflux Reservoir (BRR) 2
+1 Helm of the Host (BRR) 19
+1 Self-Assembler (BRR) 51
+3 Wurmcoil Engine (BRR) 63
+4 Gigantosaurus (ANB) 96
+4 Epic Proportions (ANB) 93
+4 Rampaging Brontodon (ANB) 102
+2 Weaver of Blossoms (VOW) 226
+1 World Shaper (ANB) 110
+4 Deathbonnet Sprout (MID) 181
+3 Jungle Delver (ANB) 99
+1 Haywire Mite (BRO) 199
+3 Giant Growth (BRO) 183
+2 Fortifying Draught (STX) 132
+3 Snarling Wolf (MID) 199
+1 Bayou Groff (STX) 121
+4 Azusa's Many Journeys (NEO) 172
+3 Devouring Tendrils (STX) 126
+2 Prosperous Innkeeper (AFR) 200
+3 Rabid Bite (ANB) 101
+2 Return to Nature (THB) 197
+2 Woodland Mystic (ANB) 109
+1 Band Together (HBG) 200
+2 Colossal Majesty (ANB) 92
+1 Generous Stray (GRN) 129
+3 Generous Stray (ANB) 95
+1 Hinterland Chef (Y22) 50
+2 Toski, Bearer of Secrets (KHM) 197
+1 Mesmeric Orb (BRR) 31
+2 Tower Worker (BRO) 255

@@ -1,0 +1,28 @@
+Deck
+1 Ashnod, Flesh Mechanist (BRO) 84
+1 Dwarven Forge-Chanter (BRO) 131
+1 Horned Stoneseeker (BRO) 138
+1 Gixian Infiltrator (BRO) 98
+1 Junkyard Genius (BRO) 214
+1 Blitz Automaton (BRO) 158
+1 Scrapwork Rager (BRO) 123
+1 Go for the Throat (BRO) 102
+1 Sibling Rivalry (BRO) 152
+1 Energy Refractor (BRO) 234
+1 Pyrrhic Blast (BRO) 148
+1 Gate of the Black Dragon (HBG) 77
+1 Ichor Drinker (MOM) 111
+1 Sheoldred (MOM) 125
+1 Phyrexian Gargantua (MOM) 121
+1 Gift of Compleation (MOM) 106
+1 Compleated Huntmaster (MOM) 96
+1 Etched Familiar (MOM) 101
+1 Etched Host Doombringer (MOM) 102
+1 Gloomfang Mauler (MOM) 108
+1 Bladed Battle-Fan (MOM) 91
+1 Unseal the Necropolis (MOM) 128
+1 Deadly Derision (MOM) 99
+1 Invasion of Eldraine (MOM) 113
+2 Bloodfell Caves (NEO) 264
+18 Swamp (WOE) 271
+16 Mountain (WOE) 273
