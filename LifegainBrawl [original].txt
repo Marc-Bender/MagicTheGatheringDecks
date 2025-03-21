@@ -1,0 +1,64 @@
+Commander
+1 Daxos, Blessed by the Sun (MUL) 67
+
+Deck
+40 Plains (FDN) 273
+1 Hinterland Sanctifier (FDN) 730
+1 Lunarch Veteran (MID) 27
+1 Lucky Offering (NEO) 27
+1 Leonin Vanguard (FDN) 499
+1 Moment of Triumph (FDN) 500
+1 Ajani's Pridemate (FDN) 135
+1 Compulsory Rest (PIO) 10
+1 Traveling Minister (VOW) 39
+1 Hallowed Priest (ANB) 9
+1 Eriette's Lullaby (OTJ) 10
+1 Impassioned Orator (ANB) 10
+1 Griffin Aerie (WOT) 5
+1 Revitalize (KHM) 23
+1 Sanctify (VOW) 33
+1 A-Knockout Blow (SNC) 20
+1 Angel of Vitality (ANB) 1
+1 Cat Collector (FDN) 4
+1 Celestial Unicorn (AFR) 5
+1 Kor Celebrant (ZNR) 22
+1 Inspiring Overseer (FDN) 496
+1 Dazzling Angel (FDN) 9
+1 Righteous Valkyrie (KHM) 24
+1 Prayer of Binding (DMU) 28
+1 The Wandering Emperor (NEO) 42
+1 Spiritual Guardian (ANB) 21
+1 Twinblade Paladin (FDN) 503
+1 Vanguard Seraph (FDN) 28
+1 Emerge from the Cocoon (DSK) 5
+1 Inspiring Commander (ANB) 11
+1 Linvala, the Preserver (PIO) 25
+1 Valkyrie Harbinger (KHM) 374
+1 Cathar Commando (FDN) 139
+1 A-Dawnbringer Cleric (HBG) 87
+1 Citizen's Crowbar (SNC) 8
+1 Break the Spell (WOE) 5
+1 Disenchant (ZNR) 10
+1 Keening Apparition (PIO) 20
+1 Invoke the Divine (M19) 16
+1 Cut Short (MOM) 10
+1 Kill Shot (SNC) 19
+1 Charmed Stray (ANB) 5
+1 Garrison Cat (IKO) 14
+1 Helpful Hunter (FDN) 16
+1 Felidar Savior (FDN) 12
+1 Felidar Retreat (FDN) 574
+1 Syndicate Messenger (PIO) 40
+1 Regal Caracal (FDN) 579
+1 Bounding Felidar (OTJ) 5
+1 Prideful Parent (FDN) 21
+1 Basri's Acolyte (M21) 8
+1 Phyrexian Vindicator (ONE) 27
+1 Leonin Warleader (ANB) 13
+1 Leonin Lightbringer (ONE) 20
+1 Twinblade Geist (VOW) 40
+1 Envoy of Okinec Ahau (LCI) 11
+1 Skyknight Squire (FDN) 23
+1 Arahbo, the First Fang (FDN) 2
+1 Ironpaw Aspirant (LCI) 18
+1 Dawnwing Marshal (FDN) 570
